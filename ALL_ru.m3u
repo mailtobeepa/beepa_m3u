@@ -103,6 +103,698 @@ http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_GUBERNIA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
 #EXTINF:-1 group-title="САМАРА",ТНВ Планета
 http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_TNVPLANETA.m3u8
+#EXTINF:-1 group-title="d5m1 Каналы от Dmitry-tv",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="d5m1 Каналы от Dmitry-tv",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Первый канал (+8)
+http://dmi3y-tv.ru/hls/zabava/36/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия 1 (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия 1 (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия 1 (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",НТВ (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",НТВ
+http://dmi3y-tv.ru/hls/zabava/36/CH_NTV.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",НТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",НТВ (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",НТВ (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",НТВ (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятый канал
+http://dmi3y-tv.ru/hls/zabava/36/CH_5TV.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятый канал (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятый канал (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятый канал (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятый канал (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия К (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIAK-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия К
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия К (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия К (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия К (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия К (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/zabava/36/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Карусель (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_KARUSEL-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Карусель
+http://dmi3y-tv.ru/hls/zabava/36/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Карусель (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_KARUSEL_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Карусель (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Карусель (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_KARUSEL_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Карусель (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_KARUSEL_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ОТР
+http://dmi3y-tv.ru/hls/zabava/36/CH_OTR.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВЦ (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВЦ
+http://dmi3y-tv.ru/hls/zabava/36/CH_TVC.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВЦ (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВЦ (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВЦ (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВЦ (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",РЕН ТВ (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RENTV-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",РЕН ТВ
+http://dmi3y-tv.ru/hls/zabava/36/CH_RENTV.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",РЕН ТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",РЕН ТВ (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",РЕН ТВ (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RENTV_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",РЕН ТВ (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_RENTV_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СПАС (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SPAS-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СПАС
+http://dmi3y-tv.ru/hls/zabava/36/CH_SPAS.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СПАС (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SPAS_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СПАС (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SPAS_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СПАС (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SPAS_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СПАС (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SPAS_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СТС (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STS-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СТС
+http://dmi3y-tv.ru/hls/zabava/36/CH_STS.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СТС (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STS_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СТС (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STS_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СТС (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STS_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",СТС (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STS_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Домашний (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Домашний
+http://dmi3y-tv.ru/hls/zabava/36/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Домашний (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Домашний (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Домашний (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Домашний (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВ3 (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TV3-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВ3
+http://dmi3y-tv.ru/hls/zabava/36/CH_TV3.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВ3 (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВ3 (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВ3 (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТВ3 (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятница! (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_FRIDAY-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятница!
+http://dmi3y-tv.ru/hls/zabava/36/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятница! (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_FRIDAY_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятница! (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятница! (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_FRIDAY_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Пятница! (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_FRIDAY_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Звезда (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Звезда
+http://dmi3y-tv.ru/hls/zabava/36/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Звезда (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Звезда (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Звезда (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Звезда (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МИР (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MIR-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МИР
+http://dmi3y-tv.ru/hls/zabava/36/CH_MIR.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МИР (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МИР (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МИР (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MIR_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МИР (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТНТ (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТНТ (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТНТ (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТНТ (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",ТНТ (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МУЗ ТВ (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МУЗ ТВ
+http://dmi3y-tv.ru/hls/zabava/36/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МУЗ ТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MUZTV_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МУЗ ТВ (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МУЗ ТВ (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MUZTV_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",МУЗ ТВ (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_MUZTV_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Че! (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_CHE-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Че!
+http://dmi3y-tv.ru/hls/zabava/36/CH_CHE.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Че! (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_CHE_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Че! (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_CHE_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Че! (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_CHE_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Че! (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_CHE_7.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Ю (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_U-1.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Ю
+http://dmi3y-tv.ru/hls/zabava/36/CH_U.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Ю (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_U_2.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Ю (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_U_4.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Ю (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_U_6.m3u8
+#EXTINF:-1 group-title="d5m1 ЭФИРНЫЕ",Ю (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_U_7.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",СТВ (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_STV_SVTPL.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",Миллет ТВ (Симферополь)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_MILLET_SMRPL.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",НТС (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_NTS_SVTPL.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",ТРК-555 (Алушта)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_TRK555_ALUSHTA.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",Первый Крымский (Симферополь)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_1KRYMSKIY_SMRPL.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",КРЫМ 24 (Симферополь)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",Евпатория (Евпатория)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_EVPATORIATV_EVPATORIA.m3u8
+#EXTINF:-1 group-title="d5m1 РЕГИОНАЛЬНЫЕ",Первый Севастопольский (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/36/region/CH_1SEVASTOPOL_SVTPL.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",СТС Love (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STSLOVE-1.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",СТС Love
+http://dmi3y-tv.ru/hls/zabava/36/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",СТС Love (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STSLOVE_2.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",СТС Love (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/36/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/36/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",НТВ ПРАВО
+http://dmi3y-tv.ru/hls/36/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",НТВ ХИТ
+http://dmi3y-tv.ru/hls/36/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="d5m1 КИНО И СЕРИАЛЫ",КИНОМАН
+http://dmi3y-tv.ru/hls/zabava/CH_KINOMAN.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_2X2-1.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",2x2
+http://dmi3y-tv.ru/hls/zabava/36/CH_2X2.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_2X2_2.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_2X2_4.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_2X2_6.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_2X2_7.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SUBBOTA-1.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://dmi3y-tv.ru/hls/zabava/36/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SUBBOTA_2.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SUBBOTA_4.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SUBBOTA_6.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_SUBBOTA_7.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT4-1.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT4.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT4_2.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT4_4.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT4_6.m3u8
+#EXTINF:-1 group-title="d5m1 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_TNT4_7.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Солнце (-1)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DISNEY-1.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Солнце
+http://dmi3y-tv.ru/hls/zabava/36/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Солнце (+2)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DISNEY_2.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Солнце (+4)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DISNEY_4.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Солнце (+6)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DISNEY_6.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Солнце (+7)
+http://dmi3y-tv.ru/hls/zabava/36/CH_DISNEY_7.m3u8
+#EXTINF:-1 group-title="d5m1 ДЕТСКИЕ",Радость моя
+http://dmi3y-tv.ru/hls/36/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="d5m1 ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
+http://dmi3y-tv.ru/hls/36/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="d5m1 МУЗЫКАЛЬНЫЕ",RUTV
+http://dmi3y-tv.ru/hls/36/CH_RUTV.m3u8
+#EXTINF:-1 group-title="d5m1 МУЗЫКАЛЬНЫЕ",TRACE Urban
+http://dmi3y-tv.ru/hls/36/CH_TRACE_URBAN.m3u8
+#EXTINF:-1 group-title="d5m1 МУЗЫКАЛЬНЫЕ",BRIDGE TV
+http://dmi3y-tv.ru/hls/36/CH_BRIDGETV.m3u8
+#EXTINF:-1 group-title="d5m1 ИНФОРМАЦИОННЫЕ",Всё ТВ
+http://dmi3y-tv.ru/hls/zabava/36/CH_VSETV.m3u8
+#EXTINF:-1 group-title="d5m1 ИНФОРМАЦИОННЫЕ",РБК
+http://dmi3y-tv.ru/hls/36/CH_RBK.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Беларусь 1 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Беларусь 2 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Беларусь 3 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Беларусь 5 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Беларусь 5 Интернет (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="d5m1 БЕЛАРУСЬ [BY]",Первый информационный (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="d5m2 Каналы от Dmitry-tv",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="d5m2 Каналы от Dmitry-tv",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Первый канал (+8)
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия 1 (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия 1 (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия 1 (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",НТВ (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",НТВ
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",НТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",НТВ (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",НТВ (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",НТВ (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятый канал
+http://dmi3y-tv.ru/hls/zabava/48/CH_5TV.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятый канал (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятый канал (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятый канал (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятый канал (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия К (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия К
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия К (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия К (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия К (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия К (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Карусель (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_KARUSEL-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Карусель
+http://dmi3y-tv.ru/hls/zabava/48/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Карусель (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_KARUSEL_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Карусель (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Карусель (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_KARUSEL_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Карусель (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_KARUSEL_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ОТР
+http://dmi3y-tv.ru/hls/zabava/48/CH_OTR.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВЦ (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВЦ
+http://dmi3y-tv.ru/hls/zabava/48/CH_TVC.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВЦ (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВЦ (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВЦ (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВЦ (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",РЕН ТВ (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",РЕН ТВ
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",РЕН ТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",РЕН ТВ (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",РЕН ТВ (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",РЕН ТВ (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СПАС (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СПАС
+http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СПАС (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СПАС (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СПАС (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СПАС (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СТС (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СТС
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СТС (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СТС (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СТС (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",СТС (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Домашний (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Домашний
+http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Домашний (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Домашний (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Домашний (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Домашний (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВ3 (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TV3-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВ3
+http://dmi3y-tv.ru/hls/zabava/48/CH_TV3.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВ3 (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВ3 (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВ3 (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТВ3 (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятница! (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_FRIDAY-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятница!
+http://dmi3y-tv.ru/hls/zabava/48/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятница! (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_FRIDAY_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятница! (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятница! (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_FRIDAY_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Пятница! (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_FRIDAY_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Звезда (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Звезда
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Звезда (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Звезда (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Звезда (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Звезда (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МИР (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МИР
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МИР (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МИР (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МИР (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МИР (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТНТ (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТНТ (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТНТ (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТНТ (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",ТНТ (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МУЗ ТВ (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МУЗ ТВ
+http://dmi3y-tv.ru/hls/zabava/48/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МУЗ ТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MUZTV_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МУЗ ТВ (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МУЗ ТВ (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MUZTV_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",МУЗ ТВ (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MUZTV_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Че! (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_CHE-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Че!
+http://dmi3y-tv.ru/hls/zabava/48/CH_CHE.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Че! (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_CHE_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Че! (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_CHE_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Че! (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_CHE_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Че! (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_CHE_7.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Ю (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_U-1.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Ю
+http://dmi3y-tv.ru/hls/zabava/48/CH_U.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Ю (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_U_2.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Ю (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_U_4.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Ю (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_U_6.m3u8
+#EXTINF:-1 group-title="d5m2 ЭФИРНЫЕ",Ю (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_U_7.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",СТВ (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_STV_SVTPL.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",Миллет ТВ (Симферополь)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_MILLET_SMRPL.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",НТС (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_NTS_SVTPL.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",ТРК-555 (Алушта)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_TRK555_ALUSHTA.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",Первый Крымский (Симферополь)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_1KRYMSKIY_SMRPL.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",КРЫМ 24 (Симферополь)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",Евпатория (Евпатория)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_EVPATORIATV_EVPATORIA.m3u8
+#EXTINF:-1 group-title="d5m2 РЕГИОНАЛЬНЫЕ",Первый Севастопольский (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/48/region/CH_1SEVASTOPOL_SVTPL.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",СТС Love (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STSLOVE-1.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",СТС Love
+http://dmi3y-tv.ru/hls/zabava/48/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",СТС Love (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STSLOVE_2.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",СТС Love (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/48/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/48/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",НТВ ПРАВО
+http://dmi3y-tv.ru/hls/48/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",НТВ ХИТ
+http://dmi3y-tv.ru/hls/48/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="d5m2 КИНО И СЕРИАЛЫ",КИНОМАН
+http://dmi3y-tv.ru/hls/zabava/CH_KINOMAN.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_2X2-1.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",2x2
+http://dmi3y-tv.ru/hls/zabava/48/CH_2X2.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_2X2_2.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_2X2_4.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_2X2_6.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_2X2_7.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SUBBOTA-1.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://dmi3y-tv.ru/hls/zabava/48/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SUBBOTA_2.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SUBBOTA_4.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SUBBOTA_6.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_SUBBOTA_7.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT4-1.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT4.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT4_2.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT4_4.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT4_6.m3u8
+#EXTINF:-1 group-title="d5m2 РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT4_7.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Солнце (-1)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DISNEY-1.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Солнце
+http://dmi3y-tv.ru/hls/zabava/48/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Солнце (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DISNEY_2.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Солнце (+4)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DISNEY_4.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Солнце (+6)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DISNEY_6.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Солнце (+7)
+http://dmi3y-tv.ru/hls/zabava/48/CH_DISNEY_7.m3u8
+#EXTINF:-1 group-title="d5m2 ДЕТСКИЕ",Радость моя
+http://dmi3y-tv.ru/hls/48/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="d5m2 ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
+http://dmi3y-tv.ru/hls/48/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="d5m2 МУЗЫКАЛЬНЫЕ",RUTV
+http://dmi3y-tv.ru/hls/48/CH_RUTV.m3u8
+#EXTINF:-1 group-title="d5m2 МУЗЫКАЛЬНЫЕ",TRACE Urban
+http://dmi3y-tv.ru/hls/48/CH_TRACE_URBAN.m3u8
+#EXTINF:-1 group-title="d5m2 МУЗЫКАЛЬНЫЕ",BRIDGE TV
+http://dmi3y-tv.ru/hls/48/CH_BRIDGETV.m3u8
+#EXTINF:-1 group-title="d5m2 ИНФОРМАЦИОННЫЕ",Всё ТВ
+http://dmi3y-tv.ru/hls/zabava/48/CH_VSETV.m3u8
+#EXTINF:-1 group-title="d5m2 ИНФОРМАЦИОННЫЕ",РБК
+http://dmi3y-tv.ru/hls/48/CH_RBK.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Беларусь 1 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Беларусь 2 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Беларусь 3 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Беларусь 5 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Беларусь 5 Интернет (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="d5m2 БЕЛАРУСЬ [BY]",Первый информационный (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="ru",360° (720p)
 https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="ru",DanceHits80
