@@ -80,11 +80,11 @@ http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,viju TV1000 Русское
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://tv.ttk.mx:9183
 #EXTINF:-1 ,viju TV1000
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=cmIZ7fAZTOQQv5TrU8Rmqw&e=1745689009&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 ,viju TV1000 Action
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://tv.ttk.mx:9182
 #EXTINF:-1 ,viju TV1000 Новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Qaesp6RboANIbOvSaiw_9w&e=1745689103&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 ,viju TV1000 romantica
@@ -94,7 +94,7 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?
 #EXTINF:-1 ,Комедия
 http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 #EXTINF:-1 ,Киносерия
-http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 ,НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Сериал
@@ -130,7 +130,7 @@ http://hls.peers.tv/streaming/klyuch/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJI
 #EXTINF:-1 ,Охотник и рыболов Int
 https://stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1--Ohotnik_i_ryb_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 #EXTINF:-1 ,Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Приключения HD
@@ -164,7 +164,7 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 ,ТВ Спорт
 http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 #EXTINF:-1 ,Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU1NjQzNDEsImlhdCI6MTc0NTQ3Nzk0MSwiY2lkIjo2LCJ1aWQiOjkxMTM5MDMyMiwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.lR00xUyBN6Ka2JJ6CVtfCCKNjdcIW5F9KmyIAQ5j440&offset=10
+http://130.193.73.10:8937/play/a015
 #EXTINF:-1 ,Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,ТАСС
@@ -180,7 +180,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://195.26.83.96:7007/play/10/index.m3u8
+http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный
 https://salam-mskm9-36.rutube.ru/dive/river-3-334.rutube.ru/4jCBiTOCco7ScGQDDbSRFQ/stream/genetta-301.m9.rutube.ru/krRH-BeDInuCJgkDCWNmaQ/1746200116/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 
@@ -194,7 +194,7 @@ http://live-3.otcnet.ru/congresstv/index.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:-1 ,Красная Линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 ,Вместе РФ
+#EXTINF:-1 ,Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 ,Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -222,13 +222,14 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/2085.m3u8
 #EXTINF:-1 ,HGTV
 https://salam-mskm9-36.rutube.ru/dive/river-5-547.rutube.ru/N6xxRf-dQbJbpu1Xog828A/stream/genetta-318.m9.rutube.ru/HeNtkCCFseXq8YKC_2bXFw/1746200375/e47323270d6128efe76594deede78394/720p_stream.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 ,Театр
+http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:-1 ,viju Explore
+http://109.70.186.70:9090/udp/239.185.1.5:1234
+#EXTINF:-1 ,viju Nature
+http://109.70.186.70:9090/udp/239.185.1.7:1234
+#EXTINF:-1 ,Discovery
+http://91.146.94.234:10000/play/a041
 
 
 
