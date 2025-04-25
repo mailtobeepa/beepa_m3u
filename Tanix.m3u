@@ -167,7 +167,7 @@ http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,РБК
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:-1 ,Соловьев Live
+#EXTINF:-1 ,Соловьев.Live
 https://salam-smr-53.rutube.ru/dive/river-3-328.rutube.ru/KeHLTbtVzDeiYWv6dD02gA/stream/genetta-503.ost.rutube.ru/2S3Yg601sUMoaZlMov04CA/1746146721/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 ,Russia Today Doc
 https://salam-smr-41.rutube.ru/dive/river-3-355.rutube.ru/uVI4SozBsMSrQmvd-L70Mg/stream/genetta-315.m9.rutube.ru/448TVp5suB-Am2W_Zrbz0w/1746145539/bb71a99e0ddc621322dafad338b96a3e/720p_stream.m3u8
